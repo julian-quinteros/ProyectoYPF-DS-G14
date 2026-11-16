@@ -113,7 +113,7 @@ La regresión logística es el modelo principal: rinde igual que los modelos má
 | 10 % | 53 | 0,981 | 0,975 |
 | 15 % | 50 | 1,000 | 0,998 |
 
-El resultado depende del umbral. Por eso el umbral del 10 % debe presentarse junto con esta tabla.
+El resultado depende del umbral. Por eso el umbral del 10 % lo representamos junto a esta tabla.
 
 ### Análisis no supervisado
 
