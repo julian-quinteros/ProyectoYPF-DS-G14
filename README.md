@@ -9,7 +9,7 @@ Miembros:
 
 ## Presentación
 
-Link: https://docs.google.com/presentation/d/e/2PACX-1vQnfuDkTFjKqCCCT0AbY1g4jLF8hEGhVbfZesf9nbFZyhB7BDgkJ7KsJGYH8iTZ1A/pub?start=false&loop=false&delayms=3000
+Link: https://docs.google.com/presentation/d/1UvI3FtPw09Dfi8jX0rmsGjfT7duClwBO/edit?usp=share_link&ouid=107697359444680909040&rtpof=true&sd=true
 
 ---
 
