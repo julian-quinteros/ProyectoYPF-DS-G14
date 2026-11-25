@@ -7,6 +7,10 @@ Miembros:
  - Martínez, Alam / Ingeniero de Petróleos / martinezalam19@gmail.com
  - Quinteros, Julián Ezequiel / Ingeniero de Petróleos / julian15quinteros@gmail.com
 
+## Presentación
+
+Link: https://docs.google.com/presentation/d/e/2PACX-1vQnfuDkTFjKqCCCT0AbY1g4jLF8hEGhVbfZesf9nbFZyhB7BDgkJ7KsJGYH8iTZ1A/pub?start=false&loop=false&delayms=3000
+
 ---
 
 ## Resumen
